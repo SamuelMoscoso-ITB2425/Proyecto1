@@ -32,3 +32,8 @@ sudo rmdir Codigo
 
 sudo chown -R www-data:www-data app
 sudo chown 755 app
+
+
+Para meterse en la web 
+
+http://localhost/app/index.php
