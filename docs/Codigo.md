@@ -36,10 +36,10 @@ Cada archivo cumple una función específica:
 #### C. Validación y seguridad
 Se implementan validaciones del lado del servidor, asegurando que el email tenga formato correcto. Se utilizan **consultas preparadas** para evitar inyecciones SQL y mejorar la seguridad de las operaciones en la base de datos.
 
-#### F. Organización y mantenibilidad
+#### D. Organización y mantenibilidad
 El código se estructura de forma que cada archivo es fácil de identificar y modificar. Las conexiones a la base de datos se gestionan correctamente y se cierran al finalizar cada operación.
 
-## 4. Resumen
+## 3. Resumen
 
 La versión mejorada transforma una solución básica y poco segura en una aplicación web robusta, segura y agradable para el usuario.  
 El sistema implementa buenas prácticas en diseño, seguridad y experiencia de usuario, facilitando el mantenimiento y futuras ampliaciones.
