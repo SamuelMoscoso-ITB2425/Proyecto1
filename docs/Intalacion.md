@@ -39,12 +39,12 @@ sudo apt install git -y
 sudo git clone (repositorio) (/var/www/html)
 cd /var/www/html
 
-![imagen](../imagenes/.png)
+![imagen](../imagenes/app.png)
 
 Se le ha de dar parmisos al 
 sudo chown -R www-data:www-data app
 sudo chown 755 app
-<img>
+![imagen](../imagenes/permisos.png)
 
 ## Base de datos
 
