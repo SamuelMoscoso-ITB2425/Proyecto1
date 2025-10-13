@@ -8,7 +8,7 @@ sudo apt update
 
 sudo apt install apache2
 
-![imagen](../Install_apache2.png)
+![imagen](../imagenes/Install_apache2.png)
 
 Instalacion del php y requeridos
 
