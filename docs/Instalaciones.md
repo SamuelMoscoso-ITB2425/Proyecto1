@@ -10,10 +10,10 @@ sudo apt install apache2
 
 ![imagen](../imagenes/install_php.png)
 
-##Instalación del mysql
+## Instalación del mysql
 
 ![imagen](../imagenes/install_sql.png)
 
 ## Instalación del git 
 
-![imagen](../imagenes/git.png)
+![imagen](../imagenes/git.PNG)
