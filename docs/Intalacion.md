@@ -7,30 +7,39 @@ sudo apt update
 ![imagen](../imagenes/add_user.png)
 
 sudo apt install apache2
-<img>
-sudo apt install php libapache2-mod-php php-mysql php-common php-cli
-<img>
+
+![imagen](../Install_apache2.png)
+
+Instalacion del php y requeridos
+
+![imagen](../imagenes/install_php.png)
+
 sudo apt install mysql-server
-<img>
+
+![imagen](../imagenes/install_sql.png)
 
 Configuracion post instalación
 
 sudo systemctl start apache2
 sudo systemctl enable apache2
-<img>
+
+![imagen](../imagenes/iniciar_apache.png)
 
 sudo systemctl start mysql
 sudo systemctl enable mysql
-<img>
+
+![imagen](../imagenes/iniciar_sql.png)
 
 ## Instalacion del git
 
 sudo apt install git -y
-<img>
+
+![imagen](../imagenes/install_git.png)
 
 sudo git clone (repositorio) (/var/www/html)
 cd /var/www/html
-<img>
+
+![imagen](../imagenes/.png)
 
 Se le ha de dar parmisos al 
 sudo chown -R www-data:www-data app
@@ -42,7 +51,7 @@ sudo chown 755 app
 Crearemos la base de datos con el mysql
 
 Mysql
-<img> (por plantear de añadir)
+![imagen](../imagenes/sql.png)
 
 CREATE DATABASE crud_db CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 
@@ -54,9 +63,10 @@ CREATE TABLE users (
     email VARCHAR(100) NOT NULL
 );
 
-<img>
+![imagen](../imagenes/base_datos.png)
 
 ## Web
 Para poder entrar en la web tendremos que usar el 
 http://192.168.50.1/app/dbtest.php
-<img>
+
+![imagen](../imagenes/web1.png)
