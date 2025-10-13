@@ -13,5 +13,3 @@ sudo systemctl start mysql
 sudo systemctl enable mysql
 
 ![imagen](../imagenes/iniciar_sql.png)
-
----
