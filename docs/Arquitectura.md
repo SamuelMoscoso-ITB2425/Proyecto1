@@ -1,4 +1,4 @@
-#Arquitectura
+# Arquitectura
 
 Hemos seguido una qruitectura Monolitica Tradicional debido a la sencillez de esa, ya que nos permite implementar en un unico servidor todos los programas
 
