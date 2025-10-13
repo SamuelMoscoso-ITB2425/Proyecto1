@@ -1,6 +1,6 @@
 # Activaciones
 
-Es necesario habilitar el apache2 y el mysql para poder hacer uso de ellos
+Es necesario iniciar y ahabilitar el servicio de los dos programas para que estos funcionen en cuanto se encienda la maquina
 
 ## Configuracion post instalación
 
