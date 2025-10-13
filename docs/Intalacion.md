@@ -3,7 +3,7 @@
 ## Instalaciones de los programas requeridos
 
 sudo apt update
-!(./imagenes/add_user.png)
+![](./imagenes/add_user.png)
 sudo apt install apache2
 <img>
 sudo apt install php libapache2-mod-php php-mysql php-common php-cli
