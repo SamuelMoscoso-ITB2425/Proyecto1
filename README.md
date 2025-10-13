@@ -2,11 +2,14 @@
 
 COMANDOS (Esto se quitara antes de enviarlo)
 
-Instalaciones
+Instalaciones de los programas requeridos
 
-sudo apt updatesudo apt install apache2
+sudo apt update
+
+sudo apt install apache2
 
 sudo apt install php libapache2-mod-php php-mysql php-common php-cli
+
 sudo apt install mysql-server
 
 
@@ -19,6 +22,7 @@ sudo systemctl enable mysql
 
 
 Creacion de carpeta
+Creamos esta carpeta para poder hacer e git de nuestra pagina
 sudo mkdir -p /var/www/html/
 
 
@@ -30,6 +34,7 @@ sudo git clone (repositorio) (/var/www/html)
 cd /var/www/html
 sudo rmdir Codigo
 
+Se le ha de dar parmisos al 
 sudo chown -R www-data:www-data app
 sudo chown 755 app
 
