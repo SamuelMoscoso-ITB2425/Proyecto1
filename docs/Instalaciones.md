@@ -16,4 +16,4 @@ sudo apt install apache2
 
 ## Instalación del git 
 
-![imagen](../imagenes/git.PNG)
+![imagen](../imagenes/git.png)
