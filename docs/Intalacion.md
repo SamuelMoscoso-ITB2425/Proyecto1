@@ -10,7 +10,7 @@ sudo apt install apache2
 
 ![imagen](../imagenes/Install_apache2.png)
 
-Instalacion del php y requeridos
+## Instalacion del php y requeridos
 
 ![imagen](../imagenes/install_php.png)
 
@@ -18,7 +18,7 @@ sudo apt install mysql-server
 
 ![imagen](../imagenes/install_sql.png)
 
-Configuracion post instalación
+## Configuracion post instalación
 
 sudo systemctl start apache2
 sudo systemctl enable apache2
