@@ -1,11 +1,11 @@
 # Index del proyecto
 
-[Instalaciones](./Instalaciones.md)
+[Instalaciones](./docs/Instalaciones.md)
 
-[Activación](./Activación.md)
+[Activación](./docs/Activación.md)
 
-[Creación](./Creacion.md)
+[Creación](./docs/Creacion.md)
 
-[Web](./Web.md)
+[Web](./docs/Web.md)
 
-[El porque del cambio del codigo](./Codigo.md)
+[El porque del cambio del codigo](./docs/Codigo.md)
