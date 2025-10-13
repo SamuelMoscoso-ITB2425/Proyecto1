@@ -2,10 +2,6 @@
 
 ## Instalaciones de los programas requeridos
 
-sudo apt update 
-
-![imagen](../imagenes/add_user.png)
-
 sudo apt install apache2
 
 ![imagen](../imagenes/Install_apache2.png)
