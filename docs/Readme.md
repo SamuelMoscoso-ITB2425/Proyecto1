@@ -56,5 +56,5 @@ CREATE TABLE users (
 
 ## Web
 Para poder entrar en la web tendremos que usar el 
-http://192.168.50.1/app/index.php
+http://192.168.50.1/app/dbtest.php
 <img>
