@@ -19,3 +19,7 @@
 [El porque del cambio del codigo](./docs/Codigo.md)
 
 ---
+
+[Nuestra arquitectura](./docs/Arquitectura.md)
+
+---
