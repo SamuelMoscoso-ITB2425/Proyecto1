@@ -12,4 +12,4 @@
 
 ![Portada proyecto](./img/portada.jpg)
 
-<div align="right">[⏩ Siguiente página](./pages/indice.md)</div>
+<p align="right"><a href="./pages/indice.md">⏩ Siguiente página</a></p>
