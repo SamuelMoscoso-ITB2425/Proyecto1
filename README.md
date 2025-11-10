@@ -10,4 +10,6 @@
 **Fecha de inicio:** [Fecha]  
 **Duración estimada:** 6 semanas
 
-<div align="right">⏩ Siguiente página</div>
+![Portada proyecto](./img/portada.jpg)
+
+<div align="right">[⏩ Siguiente página](./pages/indice.md)</div>
