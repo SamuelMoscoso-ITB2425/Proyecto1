@@ -2,14 +2,44 @@
 
 # 6. Documentación y Control de Versiones
 
-Toda la documentación se redacta en Markdown y se gestiona mediante Git y GitHub, registrando cada avance del proyecto, incidencias y cambios de configuración.
+> La documentación es esencial para garantizar la trazabilidad, reproducibilidad y colaboración efectiva en el proyecto. Toda la información se redacta en Markdown y se gestiona mediante Git y GitHub para un control eficiente de versiones y cambios.
 
-**Estructura del repositorio:**
-- `/docs`: Documentación principal
-- `/scripts`: Scripts de configuración y automatización
-- `/images`: Diagramas y capturas
-- `README.md`: Portada e índice
+---
 
-Se usan ramas para separar los desarrollos y pull requests para integrar los cambios tras revisión.
+## 📁 Estructura del Repositorio
 
-<div align="left">⏪ Página anterior</div><div align="right">⏩ Siguiente página</div>
+El repositorio se organiza en carpetas y archivos específicos para agrupar y facilitar el acceso:
+
+| Ruta                | Contenido                                      | Descripción                                       |
+|---------------------|-----------------------------------------------|--------------------------------------------------|
+| `/docs`             | Documentación principal                        | Manuales, guías y archivos Markdown del proyecto |
+| `/scripts`          | Scripts de configuración y automatización     | Código para instalación y despliegue automatizado|
+| `/images`           | Diagramas, infografías y capturas             | Imágenes usadas en la documentación               |
+| `README.md`         | Portada e índice principal                      | Introducción y navegación principal del proyecto  |
+
+---
+
+## 🌿 Buenas Prácticas con Git y GitHub
+
+- **Uso de ramas (branches):** Separar características y correcciones en ramas específicas para facilitar integración controlada.
+- **Pull Requests:** Revisar y aprobar cambios antes de su integración a la rama principal.
+- **Commits claros:** Mensajes descriptivos y consistentes para facilitar el historial del proyecto.
+- **Etiquetas (tags):** Marcar versiones estables y entregas importantes para referencia futura.
+
+---
+
+## 🔧 Flujo de trabajo básico
+
+
+---
+
+## 📚 Documentación Continua
+
+- Registrar cada avance, incidencia y cambio significativo.
+- Mantener actualizados README y archivos Markdown para reflejar el estado real del proyecto.
+- Utilizar herramientas de automatización para validar formatos y estilos.
+
+---
+
+<p align="left"><a href="./despliegue.md">⏪ Página anterior</a></p>
+<p align="right"><a href="./pruebas.md">⏩ Siguiente página</a></p>
