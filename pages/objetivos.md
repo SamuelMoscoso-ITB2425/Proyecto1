@@ -9,7 +9,7 @@
 
 ## 🔍 Resumen visual de la infraestructura
 
-![Servicios IT principales](./img/infraestructura_servicios.png)
+![Servicios IT principales](../img/infraestructura_servicios.png)
 
 ---
 
@@ -36,7 +36,7 @@
 
 ## 🖼️ Ejemplo de topología del proyecto
 
-![Diagrama de red y servicios](./img/topologia.png)
+![Diagrama de red y servicios](../img/topologia.png)
 
 ---
 
